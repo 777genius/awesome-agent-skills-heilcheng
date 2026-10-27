@@ -1344,6 +1344,13 @@
   "group": "Data & Analytics"
  },
  {
+  "name": "exmergo/explore",
+  "url": "https://github.com/exmergo/dex/tree/main/skills/explore",
+  "description": "Profile warehouses, verify joins, and map schemas",
+  "tab": "community",
+  "group": "Data & Analytics"
+ },
+ {
   "name": "backblaze-labs/claude-skill-b2-cloud-storage",
   "url": "https://github.com/backblaze-labs/claude-skill-b2-cloud-storage",
   "description": "Manage Backblaze B2 storage: list, audit, cleanup, security, lifecycle",
@@ -1431,6 +1438,13 @@
   "name": "chadboyda/agent-gtm-skills",
   "url": "https://github.com/chadboyda/agent-gtm-skills",
   "description": "18 go-to-market skills: pricing, outbound, SEO, ads, retention, and ops",
+  "tab": "community",
+  "group": "Marketing"
+ },
+ {
+  "name": "shalintripathi/saas-marketing-agents",
+  "url": "https://github.com/shalintripathi/saas-marketing-agents",
+  "description": "19 B2B SaaS marketing skills and 90 agents, routed by one orchestrator",
   "tab": "community",
   "group": "Marketing"
  },
@@ -1550,6 +1564,34 @@
   "name": "talkstream/ru-text",
   "url": "https://github.com/talkstream/ru-text",
   "description": "Russian text quality: ~1,040 rules for typography, info-style, editorial, UX writing, business correspondence",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "kklimuk/docx-cli",
+  "url": "https://github.com/kklimuk/docx-cli/tree/main/skills/docx-cli",
+  "description": "Work on Word .docx files in place: tracked changes, comments, forms, tables, styles.",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "stevyhacker/lokalbot-cli",
+  "url": "https://github.com/stevyhacker/lokalbot/tree/master/.agents/skills/lokalbot-cli",
+  "description": "Retrieve recorded meetings and separately authorized screen memory on macOS",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "arifszn/slide-wright",
+  "url": "https://github.com/arifszn/slide-wright",
+  "description": "Turns a topic into a themed HTML slide deck; exports to PowerPoint and PDF",
+  "tab": "community",
+  "group": "Productivity and Collaboration"
+ },
+ {
+  "name": "luchasarie/bro-skill",
+  "url": "https://github.com/luchasarie/bro-skill",
+  "description": "Re-explains the assistant's last reply or pasted text in plain language",
   "tab": "community",
   "group": "Productivity and Collaboration"
  },
@@ -1918,6 +1960,20 @@
   "group": "Development and Testing"
  },
  {
+  "name": "LeulAria/Aria-Icons",
+  "url": "https://github.com/LeulAria/Aria-Icons/tree/main/skills",
+  "description": "Search 1.4M open-source icons and add them to a project as source files",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
+  "name": "Grit-77/checking-delivery",
+  "url": "https://github.com/Grit-77/done-is-a-claim/tree/main/skills/checking-delivery",
+  "description": "Check delivery at its destination and separate acknowledgements from verified consumer results.",
+  "tab": "community",
+  "group": "Development and Testing"
+ },
+ {
   "name": "DrDroidLab/setup-open-index",
   "url": "https://github.com/DrDroidLab/open-index/blob/main/skills/setup-open-index/SKILL.md",
   "description": "Set up structured context graphs with hybrid search and read/write MCP access",
@@ -2002,6 +2058,13 @@
   "group": "Context Engineering"
  },
  {
+  "name": "JayPokale/Chisle",
+  "url": "https://github.com/JayPokale/Chisle/tree/main/skills/chisle",
+  "description": "Cuts agent tokens: terse answers, lean code, trimmed tool output; benchmarked",
+  "tab": "community",
+  "group": "Context Engineering"
+ },
+ {
   "name": "coinpaprika/coinpaprika-api",
   "url": "https://github.com/coinpaprika/skills/tree/main/coinpaprika-api",
   "description": "Crypto market data for 12,000+ coins and 350+ exchanges",
@@ -2044,6 +2107,13 @@
   "group": "Crypto and Market Data"
  },
  {
+  "name": "zhuyansen/daily-alpha-scanner",
+  "url": "https://github.com/zhuyansen/daily-alpha-scanner",
+  "description": "Daily on-chain research with OKX OnchainOS: hot tokens, smart money, meme launches, token risk",
+  "tab": "community",
+  "group": "Crypto and Market Data"
+ },
+ {
   "name": "YujxZJCN/teaching-skills",
   "url": "https://github.com/YujxZJCN/teaching-skills",
   "description": "University teaching lifecycle for professors: course design, lessons, exams, grading (Codex: YujxZJCN/teaching-skills-codex)",
@@ -2075,6 +2145,13 @@
   "name": "Qiuner/birdview",
   "url": "https://github.com/Qiuner/birdview",
   "description": "Treat architecture and constraints as the enduring work of programming, with reviewable scope, evidence, and verification in standalone HTML",
+  "tab": "community",
+  "group": "Writing & Storytelling"
+ },
+ {
+  "name": "manavmishra/ZeroSlop",
+  "url": "https://github.com/manavmishra/ZeroSlop",
+  "description": "Flags stock AI phrasing, guides the edit, checks names, numbers, quotes and links",
   "tab": "community",
   "group": "Writing & Storytelling"
  },
@@ -2177,6 +2254,20 @@
   "group": "Integration and Automation"
  },
  {
+  "name": "voygr-tech/placecall",
+  "url": "https://github.com/voygr-tech/placecall/tree/main/skills/placecall",
+  "description": "Places real phone calls to US businesses and returns the outcome and transcript",
+  "tab": "community",
+  "group": "Integration and Automation"
+ },
+ {
+  "name": "MSG91/m91-skill",
+  "url": "https://github.com/MSG91/m91-skill",
+  "description": "Ask a human for approval on their phone before risky agent actions",
+  "tab": "community",
+  "group": "Integration and Automation"
+ },
+ {
   "name": "browser-act/skills",
   "url": "https://github.com/browser-act/skills",
   "description": "22 browser automation skills for structured data extraction",
@@ -2243,6 +2334,20 @@
   "name": "uxuiprinciples/agent-skills",
   "url": "https://github.com/uxuiprinciples/agent-skills",
   "description": "5 UX/UI skills: evaluate interfaces against 168 research-backed principles",
+  "tab": "community",
+  "group": "Skill Collections"
+ },
+ {
+  "name": "KalarisLabs/research-agent-skills",
+  "url": "https://github.com/KalarisLabs/research-agent-skills",
+  "description": "280+ skills covering the full academic research lifecycle, from literature review to peer review",
+  "tab": "community",
+  "group": "Skill Collections"
+ },
+ {
+  "name": "cbrock84/headcount",
+  "url": "https://github.com/cbrock84/headcount",
+  "description": "Company-department skills (legal, finance, security, ops), each citing its governing source",
   "tab": "community",
   "group": "Skill Collections"
  },
